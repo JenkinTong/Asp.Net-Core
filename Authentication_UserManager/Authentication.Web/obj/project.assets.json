@@ -12949,11 +12949,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Studying\\Authentication\\Authentication.Web\\Authentication.Web.csproj",
+      "projectUniqueName": "C:\\Studying\\Authentication_UserManager\\Authentication.Web\\Authentication.Web.csproj",
       "projectName": "Authentication.Web",
-      "projectPath": "C:\\Studying\\Authentication\\Authentication.Web\\Authentication.Web.csproj",
+      "projectPath": "C:\\Studying\\Authentication_UserManager\\Authentication.Web\\Authentication.Web.csproj",
       "packagesPath": "C:\\Users\\tongjunqiang\\.nuget\\packages\\",
-      "outputPath": "C:\\Studying\\Authentication\\Authentication.Web\\obj\\",
+      "outputPath": "C:\\Studying\\Authentication_UserManager\\Authentication.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
